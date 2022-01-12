@@ -93,13 +93,13 @@
 
 ## 📊 Github Stats
 
-[![Jaima's github stats](https://github-readme-stats.vercel.app/api?username=Jaima-Jarnaz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Jaima-Jarnaz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaima-Jarnaz&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaima's github stats](https://github-readme-stats.vercel.app/api?username=Jaima-Jarnaz&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117)](https://github.com/Jaima-Jarnaz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaima-Jarnaz&layout=compact&theme=cobalt&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/>
   <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaima-Jarnaz&theme=react" alt="JaimaJarnaz"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaima-Jarnaz&theme=cobalt" alt="JaimaJarnaz"/></p>
   </div>
 <br/>
 
@@ -107,7 +107,7 @@
 ## 📈 Contribution Graph
 
 <br/>
-<a href="https://github.com/mayurpai/github-readme-activity-graph"><img alt="Jaima-Jarnaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jaima-Jarnaz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/mayurpai/github-readme-activity-graph"><img alt="Jaima-Jarnaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jaima-Jarnaz&bg_color=0D1127&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
