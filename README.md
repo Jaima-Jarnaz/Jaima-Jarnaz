@@ -29,6 +29,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Storybook-282C34?logo=storybook" alt="Storybook logo" title="Storybook" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React logo" title="React" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
