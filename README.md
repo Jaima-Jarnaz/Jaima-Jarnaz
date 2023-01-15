@@ -70,12 +70,16 @@
 [<img src="https://img.shields.io/badge/AWS-282C34?logo=aws" alt="aws logo" title="aws" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=FF0000" alt="Angular logo" title="Angular 14" height="25" />][learning_next_anchor]
 
 <br/>
 
 ## 👾  What I am interested in learning at some point
 
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=87CEEB" alt="Next.js logo" title="docker" height="25" />][learning_next_anchor]
 &nbsp;
 
 <br/>
