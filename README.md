@@ -4,7 +4,7 @@
 
 <br/>
 <h1 align="center">Hi,I'm Jaima Jarnaz, Software Engineer</h1>
-<h3 align="center">Currently, I am working as "Software Engineer" at BJIT Limited.</h3>
+<h3 align="center">Currently, I am working as "Senior Software Engineer" at BJIT Limited.</h3>
 <h5 align="center">Love to explore new technology and yes big fan of Computer Science </h5>
 
 <br/>
